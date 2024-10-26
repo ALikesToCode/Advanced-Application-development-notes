@@ -1,4 +1,4 @@
-## Chapter 1: JavaScript Essentials - Collections, Modularity, Objects, Asynchrony, and JSON
+## Chapter 2: JavaScript Essentials - Collections, Modularity, Objects, Asynchrony, and JSON
 
 Welcome to this comprehensive guide on JavaScript collections, modularity, objects, asynchrony, and JSON. These concepts are core for building robust, scalable, and interactive applications. Whether you are new or familiar with JavaScript, this chapter will serve as both an introduction and a deeper dive into the language's nuances.
 
