@@ -1,4 +1,4 @@
-# Introduction to Vue.js and Frontend Development
+# Chapter 3: Introduction to Vue.js and Frontend Development
 
 ## Overview
 
