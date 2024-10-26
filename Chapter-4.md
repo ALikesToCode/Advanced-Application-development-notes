@@ -1,4 +1,4 @@
-# Chapter: Mastering Vue.js – Components, Reactivity, and Advanced Features
+# Chapter 4: Mastering Vue.js – Components, Reactivity, and Advanced Features
 
 ## Introduction to Vue.js
 
