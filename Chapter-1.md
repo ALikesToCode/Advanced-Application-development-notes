@@ -1,4 +1,4 @@
-# Chapter: Modern Application Development II – A Comprehensive Guide to Advanced Web Development and JavaScript
+# Chapter 1: Modern Application Development II – A Comprehensive Guide to Advanced Web Development and JavaScript
 
 ## Introduction
 
